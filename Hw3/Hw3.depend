@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1350081798 source:d:\dropbox\cpp\hw3\weather.cpp
+	"WeatherStation.h"
+
+1348943585 d:\dropbox\cpp\hw3\observation.h
+	<string>
+
+1350075059 source:d:\dropbox\cpp\hw3\time.cpp
+	"Time.h"
+	<cstdlib>
+	<iostream>
+	<sstream>
+	<iomanip>
+	<exception>
+	<stdexcept>
+
+1350075069 d:\dropbox\cpp\hw3\time.h
+	<string>
+
+1350078611 source:d:\dropbox\cpp\hw3\observation.cpp
+	"observation.h"
+	<iostream>
+	<stdio.h>
+	<sstream>
+
+1350075073 d:\dropbox\cpp\hw3\weatherstation.h
+	<string>
+	"Time.h"
+	<exception>
+	<stdexcept>
+

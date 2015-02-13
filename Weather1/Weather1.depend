@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1348944278 source:d:\dropbox\cpp\weather1\observation.cpp
+	"observation.h"
+	<iostream>
+	<stdio.h>
+
+1348943585 d:\dropbox\cpp\weather1\observation.h
+	<string>
+
